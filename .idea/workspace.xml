@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bcb9c31-f3af-4740-9212-c8df04a2e711" name="Changes" comment="trim">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="dev" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/prod" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="bugs" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2IB3aDdXjXgjafSZmxMzikX69JB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "js.last.introduce.type": "CONST",
+    "last_opened_file_path": "/Users/robertelander/Desktop/Webstorm/saabtest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/brainatlasmeta/db-data" />
+      <recent name="$PROJECT_DIR$/pages/atlas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/blocks" />
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/va_files/neuro-poc/data" />
+      <recent name="$PROJECT_DIR$/pages/atlas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bcb9c31-f3af-4740-9212-c8df04a2e711" name="Changes" comment="" />
+      <created>1669641210779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669641210779</updated>
+      <workItem from="1669641212574" duration="3414000" />
+      <workItem from="1669725607459" duration="127000" />
+      <workItem from="1669726355989" duration="2538000" />
+      <workItem from="1669750825118" duration="54000" />
+      <workItem from="1669974421932" duration="9829000" />
+      <workItem from="1670155703481" duration="8289000" />
+      <workItem from="1670189876719" duration="229000" />
+      <workItem from="1670190117055" duration="158000" />
+      <workItem from="1670190279225" duration="100000" />
+      <workItem from="1670190443309" duration="102000" />
+      <workItem from="1670190549337" duration="17861000" />
+      <workItem from="1670322266726" duration="2891000" />
+      <workItem from="1670327276393" duration="12738000" />
+      <workItem from="1670599710988" duration="1000" />
+      <workItem from="1670776541056" duration="2734000" />
+      <workItem from="1670844664906" duration="5343000" />
+      <workItem from="1670856471387" duration="1607000" />
+      <workItem from="1670920704267" duration="149000" />
+      <workItem from="1670925223952" duration="557000" />
+      <workItem from="1670925786206" duration="1770000" />
+      <workItem from="1670948855286" duration="254000" />
+      <workItem from="1670949276807" duration="1874000" />
+      <workItem from="1670951336229" duration="2447000" />
+      <workItem from="1670953851694" duration="455000" />
+      <workItem from="1670954505467" duration="2817000" />
+      <workItem from="1671101922795" duration="5494000" />
+      <workItem from="1671110969609" duration="667000" />
+      <workItem from="1671111810073" duration="1099000" />
+      <workItem from="1671379489684" duration="1111000" />
+      <workItem from="1671382947961" duration="2117000" />
+      <workItem from="1671397546439" duration="92000" />
+      <workItem from="1671439236515" duration="6420000" />
+      <workItem from="1671452217538" duration="14219000" />
+      <workItem from="1671468988566" duration="5295000" />
+      <workItem from="1671524336480" duration="1955000" />
+      <workItem from="1671526541855" duration="304000" />
+      <workItem from="1671526884915" duration="8746000" />
+      <workItem from="1671629972596" duration="3021000" />
+      <workItem from="1671636705390" duration="2363000" />
+      <workItem from="1671659306492" duration="9532000" />
+      <workItem from="1671723996868" duration="23142000" />
+      <workItem from="1671815782866" duration="181000" />
+      <workItem from="1672220847075" duration="951000" />
+      <workItem from="1672234768611" duration="608000" />
+      <workItem from="1672313027848" duration="2693000" />
+      <workItem from="1672315781936" duration="67000" />
+      <workItem from="1672315903793" duration="1152000" />
+      <workItem from="1672393566474" duration="93000" />
+      <workItem from="1672394591796" duration="825000" />
+      <workItem from="1672405672850" duration="2998000" />
+      <workItem from="1672412933687" duration="1961000" />
+      <workItem from="1672677283598" duration="1540000" />
+      <workItem from="1672680397840" duration="44000" />
+      <workItem from="1672680987197" duration="2119000" />
+      <workItem from="1672749811899" duration="53000" />
+      <workItem from="1672749911799" duration="52000" />
+      <workItem from="1672749994832" duration="706000" />
+      <workItem from="1672751281763" duration="2947000" />
+      <workItem from="1673007040807" duration="1409000" />
+      <workItem from="1673015567430" duration="5078000" />
+      <workItem from="1673266600421" duration="12956000" />
+      <workItem from="1673345541961" duration="4201000" />
+      <workItem from="1673516624725" duration="9579000" />
+      <workItem from="1673604078912" duration="3896000" />
+      <workItem from="1673952238354" duration="4789000" />
+      <workItem from="1673981171428" duration="105000" />
+      <workItem from="1673981764776" duration="3840000" />
+      <workItem from="1673986148920" duration="681000" />
+      <workItem from="1673986834482" duration="1345000" />
+      <workItem from="1674038427410" duration="2106000" />
+      <workItem from="1674041142981" duration="1153000" />
+      <workItem from="1674043547767" duration="1074000" />
+      <workItem from="1674135858019" duration="3539000" />
+      <workItem from="1674206782504" duration="2664000" />
+      <workItem from="1674211227945" duration="5773000" />
+      <workItem from="1674472902883" duration="1853000" />
+      <workItem from="1674552004460" duration="1808000" />
+      <workItem from="1674563533364" duration="8363000" />
+      <workItem from="1674578405615" duration="2527000" />
+      <workItem from="1674643133378" duration="9351000" />
+      <workItem from="1674721710627" duration="2993000" />
+      <workItem from="1674724763874" duration="2291000" />
+      <workItem from="1675067479109" duration="108000" />
+      <workItem from="1675069933976" duration="2332000" />
+      <workItem from="1675154913996" duration="13380000" />
+      <workItem from="1675256545934" duration="3726000" />
+      <workItem from="1675265360996" duration="648000" />
+      <workItem from="1675343913417" duration="2014000" />
+      <workItem from="1675669237683" duration="1733000" />
+      <workItem from="1675675845479" duration="605000" />
+      <workItem from="1675687092071" duration="3273000" />
+      <workItem from="1675690803877" duration="1410000" />
+      <workItem from="1675692619708" duration="5093000" />
+      <workItem from="1675698113933" duration="1118000" />
+      <workItem from="1675699712076" duration="5531000" />
+      <workItem from="1675753688750" duration="6375000" />
+      <workItem from="1675784424278" duration="6133000" />
+      <workItem from="1675790630339" duration="31683000" />
+      <workItem from="1676024410404" duration="605000" />
+      <workItem from="1676025425172" duration="1886000" />
+      <workItem from="1676287013766" duration="4075000" />
+      <workItem from="1676371370999" duration="6316000" />
+      <workItem from="1676454097836" duration="10678000" />
+      <workItem from="1676471930661" duration="2386000" />
+      <workItem from="1676548076060" duration="10906000" />
+      <workItem from="1676727985771" duration="11939000" />
+      <workItem from="1676906511643" duration="2566000" />
+      <workItem from="1676993394534" duration="3134000" />
+      <workItem from="1677051873055" duration="1896000" />
+      <workItem from="1677054621502" duration="11769000" />
+      <workItem from="1677145491596" duration="11619000" />
+      <workItem from="1677237438113" duration="682000" />
+      <workItem from="1677239928625" duration="1295000" />
+      <workItem from="1677251242871" duration="7256000" />
+      <workItem from="1677346068511" duration="16954000" />
+      <workItem from="1677486725840" duration="1450000" />
+      <workItem from="1693574804049" duration="23000" />
+      <workItem from="1693652334524" duration="3000" />
+      <workItem from="1693652423778" duration="255000" />
+      <workItem from="1693652714615" duration="38000" />
+      <workItem from="1693652760706" duration="72000" />
+      <workItem from="1693823001067" duration="4270000" />
+      <workItem from="1693828385073" duration="408000" />
+      <workItem from="1695056833597" duration="1798000" />
+      <workItem from="1696517532974" duration="651000" />
+      <workItem from="1696518910995" duration="614000" />
+      <workItem from="1696521938778" duration="2827000" />
+      <workItem from="1696525453749" duration="5990000" />
+      <workItem from="1697634076394" duration="2001000" />
+    </task>
+    <task id="LOCAL-00192" summary="UrlFetch works, need to match key id.&#10;&#10;alphalist update&#10;&#10;TODO:&#10;&#10;make sure const for every alphalist correlates. &#10;&#10;&#10;Scrape: n, p, s, t.">
+      <created>1675864181379</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1675864181379</updated>
+    </task>
+    <task id="LOCAL-00193" summary="UrlFetch works, need to match key id.&#10;&#10;alphalist update&#10;&#10;TODO:&#10;&#10;make sure const for every alphalist correlates. &#10;&#10;&#10;Scrape: n, p, s, t.">
+      <created>1675864308483</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1675864308483</updated>
+    </task>
+    <task id="LOCAL-00194" summary="Finally solved the 1 entry map. &#10;Ugly solution regarding className = Css madness. &#10;&#10;alphalist update&#10;&#10;TODO:&#10;&#10;make sure const for every alphalist correlates. &#10;&#10;&#10;Scrape: n, p, s, t.">
+      <created>1675872585271</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1675872585271</updated>
+    </task>
+    <task id="LOCAL-00195" summary="First version of the funcitoning Dictionary. Need to look over styling. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675876625048</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1675876625048</updated>
+    </task>
+    <task id="LOCAL-00196" summary="First version of the funcitoning Dictionary. Need to look over styling. &#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675876852343</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1675876852343</updated>
+    </task>
+    <task id="LOCAL-00197" summary="First version of the funcitoning Dictionary. Need to look over styling. &#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675876971654</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1675876971654</updated>
+    </task>
+    <task id="LOCAL-00198" summary="Fixed navmenu for dict and incomplete json arrays &#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675878318081</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1675878318081</updated>
+    </task>
+    <task id="LOCAL-00199" summary="Fixed navmenu for dict and incomplete json arrays &#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675878413173</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1675878413173</updated>
+    </task>
+    <task id="LOCAL-00200" summary="index fix for prod&#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675878471322</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1675878471322</updated>
+    </task>
+    <task id="LOCAL-00201" summary="index fix for prod&#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675879244450</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1675879244450</updated>
+    </task>
+    <task id="LOCAL-00202" summary="index fix for prod&#10;&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675879509309</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1675879509309</updated>
+    </task>
+    <task id="LOCAL-00203" summary="obsolete files removal&#10;navmenu fix&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675950321950</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1675950321950</updated>
+    </task>
+    <task id="LOCAL-00204" summary="urlFetch is red in Webstorm for some reason. Probably due to this mornings git issue&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1675950478414</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1675950478414</updated>
+    </task>
+    <task id="LOCAL-00205" summary="goude code implement. Need to make into .tsx&#10;&#10;TODO:&#10;Scrape: n, p, s, t.&#10;&#10;Figure out brainatlas sql / docker issue.">
+      <created>1675951375979</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1675951375980</updated>
+    </task>
+    <task id="LOCAL-00206" summary="Alphelist I link error fix. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.&#10;&#10;Figure out brainatlas sql / docker issue.">
+      <created>1675951407739</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1675951407739</updated>
+    </task>
+    <task id="LOCAL-00207" summary="Brainatlas - semidone&#10;&#10;a-z.tsx updated to support related links. &#10;Need to update json files, only a-d include related links as of now. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676389960186</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1676389960187</updated>
+    </task>
+    <task id="LOCAL-00208" summary="Brainatlas - semidone&#10;&#10;a-z.tsx updated to support related links. &#10;Need to update json files, only a-d include related links as of now. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676390099453</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1676390099453</updated>
+    </task>
+    <task id="LOCAL-00209" summary="Brainatlas - semidone&#10;&#10;a-d json updated with related links. Need to scrape everything else. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676391020024</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1676391020024</updated>
+    </task>
+    <task id="LOCAL-00210" summary="Brainatlas - semidone&#10;&#10;related links update&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676460973277</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1676460973278</updated>
+    </task>
+    <task id="LOCAL-00211" summary="Brainatlas - semidone&#10;&#10;structures build bug&#10;&#10;related links update&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676461222041</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1676461222041</updated>
+    </task>
+    <task id="LOCAL-00212" summary="Brainatlas - semidone&#10;&#10;structures build bug&#10;&#10;related links update&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676461312668</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1676461312668</updated>
+    </task>
+    <task id="LOCAL-00213" summary="Brainatlas - semidone&#10;&#10;structures build bug&#10;&#10;related links update&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676461417709</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1676461417709</updated>
+    </task>
+    <task id="LOCAL-00214" summary="Brainatlas - semidone&#10;&#10;dictionary update. &#10;url, relatedlinks html include&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676735483380</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1676735483381</updated>
+    </task>
+    <task id="LOCAL-00215" summary="Brainatlas - semidone&#10;&#10;json arrays update&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676735684233</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1676735684233</updated>
+    </task>
+    <task id="LOCAL-00216" summary="&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676982276308</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982276308</updated>
+    </task>
+    <task id="LOCAL-00217" summary="&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676982312288</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982312288</updated>
+    </task>
+    <task id="LOCAL-00218" summary="&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676982512393</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982512394</updated>
+    </task>
+    <task id="LOCAL-00219" summary="&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676982521394</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982521394</updated>
+    </task>
+    <task id="LOCAL-00220" summary="&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676982642178</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982642178</updated>
+    </task>
+    <task id="LOCAL-00221" summary="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676984287764</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984287764</updated>
+    </task>
+    <task id="LOCAL-00222" summary="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676984351654</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984351654</updated>
+    </task>
+    <task id="LOCAL-00223" summary="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676984865079</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984865079</updated>
+    </task>
+    <task id="LOCAL-00224" summary="entries update&#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676985389853</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1676985389853</updated>
+    </task>
+    <task id="LOCAL-00225" summary="text-content updated. All text-content should been replaced by the final content. &#10;&#10;Dictionary description text updated&#10;&#10;index styling cleanup. &#10;obsolete files removal. &#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676995534565</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1676995534565</updated>
+    </task>
+    <task id="LOCAL-00226" summary="index bug title text&#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1676995773764</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1676995773764</updated>
+    </task>
+    <task id="LOCAL-00227" summary="Footer fix&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1677052461584</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1677052461585</updated>
+    </task>
+    <task id="LOCAL-00228" summary="Footer margin fix&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1677053310104</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1677053310104</updated>
+    </task>
+    <task id="LOCAL-00229" summary="Footer fix dictionary&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1677058261324</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1677058261324</updated>
+    </task>
+    <task id="LOCAL-00230" summary="Footer fix dictionary&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1677058754433</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1677058754433</updated>
+    </task>
+    <task id="LOCAL-00231" summary="Dictionary: Related links implement, need to parse html&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t.">
+      <created>1677067163492</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1677067163492</updated>
+    </task>
+    <task id="LOCAL-00232" summary="Removed unused dependencies in dictionary &#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678">
+      <created>1677069239639</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1677069239639</updated>
+    </task>
+    <task id="LOCAL-00233" summary="Removed unused dependencies in dictionary &#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678">
+      <created>1677069762330</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1677069762330</updated>
+    </task>
+    <task id="LOCAL-00234" summary="Entrytext link inclusion. Need to change internal url links&#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678">
+      <created>1677077249233</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1677077249233</updated>
+    </task>
+    <task id="LOCAL-00235" summary="changed links, stripped /dictionary/entries from all links. &#10;&#10;need to manually change w,z&#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678">
+      <created>1677079153234</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1677079153235</updated>
+    </task>
+    <task id="LOCAL-00236" summary="Related links include&#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678">
+      <created>1677146878889</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1677146878889</updated>
+    </task>
+    <task id="LOCAL-00237" summary="DICTIONARY IS COMPLETE&#10;&#10;-----&#10;IMPORTANT&#10;-----&#10;/**/&#10;-----&#10;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&#10;------------&#10;Todo :">
+      <created>1677156945870</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1677156945870</updated>
+    </task>
+    <task id="LOCAL-00238" summary="Dictionary ads test1&#10;&#10;------------&#10;Todo :">
+      <created>1677158973747</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1677158973747</updated>
+    </task>
+    <task id="LOCAL-00239" summary="Brain png atlas 1 replace&#10;------------&#10;Todo :">
+      <created>1677252473938</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1677252473938</updated>
+    </task>
+    <task id="LOCAL-00240" summary="Brain meta-data include. Need to manually insert. &#10;------------&#10;Todo :">
+      <created>1677254103738</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1677254103738</updated>
+    </task>
+    <option name="localTasksCounter" value="258" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="entries update&#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="text-content updated. All text-content should been replaced by the final content. &#10;&#10;Dictionary description text updated&#10;&#10;index styling cleanup. &#10;obsolete files removal. &#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="index bug title text&#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="Footer fix&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="Footer margin fix&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="Footer fix dictionary&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="Dictionary: Related links implement, need to parse html&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
+    <MESSAGE value="Removed unused dependencies in dictionary &#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678" />
+    <MESSAGE value="Entrytext link inclusion. Need to change internal url links&#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678" />
+    <MESSAGE value="changed links, stripped /dictionary/entries from all links. &#10;&#10;need to manually change w,z&#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678" />
+    <MESSAGE value="Related links include&#10;&#10;------------&#10;Todo &#10;listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678" />
+    <MESSAGE value="DICTIONARY IS COMPLETE&#10;&#10;-----&#10;IMPORTANT&#10;-----&#10;/**/&#10;-----&#10;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&#10;------------&#10;Todo :" />
+    <MESSAGE value="Dictionary ads test1&#10;&#10;------------&#10;Todo :" />
+    <MESSAGE value="Brain png atlas 1 replace&#10;------------&#10;Todo :" />
+    <MESSAGE value="Brain meta-data include. Need to manually insert. &#10;------------&#10;Todo :" />
+    <MESSAGE value="initial headless git upload" />
+    <MESSAGE value="file trim" />
+    <MESSAGE value="file trimparty" />
+    <MESSAGE value="more trimmming" />
+    <MESSAGE value="trimmest" />
+    <MESSAGE value="bugs1" />
+    <MESSAGE value="trim" />
+    <option name="LAST_COMMIT_MESSAGE" value="trim" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pages/dictionary/entries/E.tsx</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
