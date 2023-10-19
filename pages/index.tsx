@@ -2,16 +2,21 @@ import React, {Fragment} from 'react';
 import type {NextPage} from 'next';
 import {slideInDownAnimate} from 'utils/animation';
 import PageProgress from 'components/common/PageProgress';
-import {Footer8} from "../src/components/blocks/footer";
-import {Portfolio8} from '../src/components/blocks/portfolio';
+import {Footer} from "../src/components/blocks/footer";
+import {Portfolio} from '../src/components/blocks/portfolio';
+import { Navbar } from '../src/components/navbar';
 
 const Home: NextPage = () => {
     return (
         <Fragment>
             <PageProgress/>
-
             {/* ========== header section ========== */}
             <header className="wrapper bg-soft-primary">
+                <header className="position-absolute w-100">
+                    <Navbar
+                        navClassName="navbar navbar-expand-lg center-nav transparent navbar-light"
+                    />
+                </header>
             </header>
 
             <main className="content-wrapper">
@@ -32,7 +37,7 @@ const Home: NextPage = () => {
                                     Etiam lorem tortor, vestibulum porta erat et, consequat volutpat leo. Integer et magna ac quam semper dignissim sit amet ut purus.
                                 </p>
 
-                                <p className="lead fs-19 mb-7">
+                                <p className="lead fs-19 mb-7" style={slideInDownAnimate('900ms')}>
                                     Nullam vestibulum facilisis est, eget condimentum erat consequat et. Nunc at venenatis dolor, quis malesuada risus. Suspendisse felis nulla, malesuada dapibus molestie in, dictum vel ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam id pellentesque enim. Ut gravida ultrices diam, at gravida tellus volutpat nec. Donec sed aliquam sapien. Quisque quis vulputate libero, vel tristique nisl. Sed volutpat diam dui, sit amet porta lectus congue ut. Cras eleifend velit eros, eget rhoncus risus blandit et.
                                 </p>
                             </div>
@@ -84,7 +89,7 @@ const Home: NextPage = () => {
                         <div className="row gx-lg-8 gx-xl-0 gy-10 align-items-center">
                             <section className="wrapper bg-light">
                                 <div id={"photogallery"} className="container pb-11 pb-md-14">
-                                    <Portfolio8 />
+                                    <Portfolio />
                                 </div>
                             </section>
                         </div>
@@ -94,7 +99,7 @@ const Home: NextPage = () => {
 
             {/* ========== footer section ========== */}
             <section className="wrapper bg-gray">
-                <Footer8/>
+                <Footer/>
             </section>
         </Fragment>
     );

@@ -8,8 +8,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bcb9c31-f3af-4740-9212-c8df04a2e711" name="Changes" comment="trim">
+    <list default="true" id="9bcb9c31-f3af-4740-9212-c8df04a2e711" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/reuseable/links/DropdownToggleLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/navigation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useNestedDropdown.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/animations.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/background.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/dividers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/from-elements.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/image-hover.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/lightbox.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/navbar.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/text-animation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/text-highlight.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/tiles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/elements/typography.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/styleguide/colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markups/styleguide/misc.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/link.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/blocks/portfolio/Portfolio8.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blocks/portfolio/Portfolio8.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/portfolio.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/portfolio.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +84,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "js.last.introduce.type": "CONST",
-    "last_opened_file_path": "/Users/robertelander/Desktop/Webstorm/saabtest",
+    "last_opened_file_path": "/Users/robertelander/Desktop/Webstorm/saabtest/src/hooks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,24 +92,24 @@
     "nodejs_package_manager_path": "yarn",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Users/robertelander/Desktop/Webstorm/saabtest/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/img" />
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/hooks" />
+      <recent name="$PROJECT_DIR$/src/components/reuseable/links" />
+      <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$/src/components" />
-      <recent name="$PROJECT_DIR$/src/components/brainatlasmeta/db-data" />
-      <recent name="$PROJECT_DIR$/pages/atlas" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/public/img/photos" />
       <recent name="$PROJECT_DIR$/src/components/blocks" />
       <recent name="$PROJECT_DIR$/public/img" />
       <recent name="$PROJECT_DIR$/va_files/neuro-poc/data" />
-      <recent name="$PROJECT_DIR$/pages/atlas" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -228,6 +249,8 @@
       <workItem from="1696521938778" duration="2827000" />
       <workItem from="1696525453749" duration="5990000" />
       <workItem from="1697634076394" duration="2001000" />
+      <workItem from="1697643504953" duration="5086000" />
+      <workItem from="1697701845677" duration="5263000" />
     </task>
     <task id="LOCAL-00192" summary="UrlFetch works, need to match key id.&#10;&#10;alphalist update&#10;&#10;TODO:&#10;&#10;make sure const for every alphalist correlates. &#10;&#10;&#10;Scrape: n, p, s, t.">
       <created>1675864181379</created>
@@ -572,7 +595,7 @@
       <option name="project" value="LOCAL" />
       <updated>1677254103738</updated>
     </task>
-    <option name="localTasksCounter" value="258" />
+    <option name="localTasksCounter" value="259" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +625,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
     <MESSAGE value="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
     <MESSAGE value="new json files implement. Dicitonary is complete now, sans relatedlinks. &#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
     <MESSAGE value="entries update&#10;&#10;TODO: &#10;------------&#10;make sure listj: Jättecellkärnan = id 5555 dont show anywhere else. &#10;and listw: wallenbergs = id 23456.&#10;warnickes fält = 34567&#10;working memory = 45678&#10;&#10;And listz.&#10;&#10;TODO:&#10;Scrape: n, p, s, t." />
@@ -627,7 +649,8 @@
     <MESSAGE value="trimmest" />
     <MESSAGE value="bugs1" />
     <MESSAGE value="trim" />
-    <option name="LAST_COMMIT_MESSAGE" value="trim" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,5 +1,5 @@
-import Portfolio8 from './Portfolio8';
+import Portfolio from './Portfolio';
 
 export {
-  Portfolio8,
+  Portfolio,
 };

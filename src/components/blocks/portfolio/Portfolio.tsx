@@ -4,13 +4,13 @@ import Image from 'next/image';
 // -------- data -------- //
 import { portfolioList5 } from 'data/portfolio';
 
-const Portfolio8: FC = () => {
+const Portfolio: FC = () => {
   return (
     <section className="wrapper bg-light">
       <div className="container py-14 py-md-17">
         <div className="mb-8 text-center">
           <div className="col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-            <h1 className="fs-85 text-uppercase text-primary mb-3">Galleri</h1>
+            <h1 className="fs-40 text-uppercase text-primary mb-3">Quick links</h1>
             <h3 className="display-4"></h3>
           </div>
         </div>
@@ -48,4 +48,4 @@ const Portfolio8: FC = () => {
   );
 };
 
-export default Portfolio8;
+export default Portfolio;

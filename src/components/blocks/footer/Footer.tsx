@@ -3,7 +3,7 @@ import { FC } from 'react';
 import NextLink from 'components/reuseable/links/NextLink';
 // -------- data -------- //
 
-const Footer8: FC = () => {
+const Footer: FC = () => {
   return (
     <footer className="bg-dark text-inverse mb-n6 mt-11">
       <div className="container py-8 py-md-8">
@@ -13,11 +13,11 @@ const Footer8: FC = () => {
               <div className="widget">
                 <div className="navbar-brand w-100">
                   <h3 className="fs-30 mb-0 text-primary">
-                    headlesstest
+                    test
                   </h3>
                 </div>
                 <p className="mb-4">
-                  © 2022 headlesstest <br className="d-none d-lg-block" />
+                  test <br className="d-none d-lg-block" />
                 </p>
               </div>
             </div>
@@ -41,4 +41,4 @@ const Footer8: FC = () => {
   );
 };
 
-export default Footer8;
+export default Footer;

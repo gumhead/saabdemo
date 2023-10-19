@@ -1,5 +1,5 @@
-import Footer8 from './Footer8';
+import Footer from './Footer';
 
 export {
-  Footer8,
+  Footer,
 };
