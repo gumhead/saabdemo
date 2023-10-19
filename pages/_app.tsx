@@ -7,16 +7,12 @@ import { Suspense } from 'react';
 
 // Bootstrap and custom scss
 import 'assets/scss/style.scss';
-// animate css
-import 'animate.css';
 // import swiper css
 import 'swiper/css';
 import 'swiper/css/free-mode';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/thumbs';
-// glightbox css
-import 'glightbox/dist/css/glightbox.css';
 // custom scrollcue css
 import 'plugins/scrollcue/scrollCue.css';
 function MyApp({ Component, pageProps }: AppProps) {

@@ -12,7 +12,7 @@ const Home: NextPage = () => {
             <PageProgress/>
             {/* ========== header section ========== */}
             <header className="wrapper bg-soft-primary">
-                <header className="position-absolute w-100">
+                <header className="position-absolute w-100 mt-5 mb-5">
                     <Navbar
                         navClassName="navbar navbar-expand-lg center-nav transparent navbar-light"
                     />
@@ -22,8 +22,8 @@ const Home: NextPage = () => {
             <main className="content-wrapper">
                 {/* ========== hero section ========== */}
                 <section className="wrapper bg-gradient-primary">
-                    <div className="container pt-10 pt-md-14">
-                        <div className="row gx-2 gy-10 align-items-center">
+                    <div className="container pt-15 pt-md-14">
+                        <div className="row gx-2 gy-10 align-items-center pt-10 mt-5">
                             <div
                                 className="col-md-10 offset-md-1 offset-lg-0 col-lg-5 text-center text-lg-start order-2 order-lg-0">
                                 <h1 className="display-1 mb-5 mx-md-10 mx-lg-0">
@@ -71,19 +71,6 @@ const Home: NextPage = () => {
                         </div>
                     </div>
                 </section>
-                <div className="container pt-10 pt-md-14">
-                    <div className="row gx-2 gy-10 align-items-center">
-                        <div className="row gx-lg-8 gx-xl-0 gy-10 align-items-center">
-                            <section className="wrapper bg-light">
-                                <div className="container pb-11 pb-md-14">
-                                    <div className="row gx-md-8 gy-10 gy-md-13 isotope">
-
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
                 <div className="container pt-10 pt-md-14">
                     <div className="row gx-2 gy-10 align-items-center">
                         <div className="row gx-lg-8 gx-xl-0 gy-10 align-items-center">

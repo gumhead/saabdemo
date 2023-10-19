@@ -38,7 +38,7 @@ const Navbar: FC<NavbarProps> = (props) => {
   const navbarRef = useRef<HTMLElement | null>(null);
 
   // dynamically render the logo
-  const logo = sticky ? 'logo-dark' : logoAlt ?? 'logo-dark';
+  const logo = sticky ? 'logo' : logoAlt ?? 'logo';
   // dynamically added navbar classname
   const fixedClassName = 'navbar navbar-expand-lg center-nav transparent navbar-light navbar-clone fixed';
 
@@ -53,7 +53,7 @@ const Navbar: FC<NavbarProps> = (props) => {
   const headerContent = (
     <Fragment>
       <div className="navbar-brand w-100">
-        <NextLink href="/" title={<img alt="logo" src={`/img/${logo}.png`} srcSet={`/img/${logo}@2x.png 2x`} />} />
+        <NextLink href="/" title={<img alt="logo" src={`/img/${logo}.png`} srcSet={`/img/${logo}.png 2x`} />} />
       </div>
 
       <div id="offcanvas-nav" data-bs-scroll="true" className="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
